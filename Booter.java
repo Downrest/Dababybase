@@ -2,6 +2,7 @@ package joemama.package.deeznuts;
 
 public class Booter {
   private boolean isDatabase = false;
+  private Database dababyDatabase = new Database();
   
   public Database() {
     isDatabase = true;
