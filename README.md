@@ -16,7 +16,7 @@ And if you're worried about security and privacy, we got your back! With the new
 * Innovative systems
 * Approved by Joe mama
 
-So what are you waiting for? Go [download](https://www.youtube.com/watch?v=UsK0YgSiLzY) it now! And save yourself some time with your best friend, DABABY DATABASE. *Anyways please buy the latest version for only $499.99, please, do it. I'm a father with 3 children, and we are all homeless. I have a gun to my neck and I want to-*
+So what are you waiting for? Go *[REDACTED]* it now! And save yourself some time with your best friend, DABABY DATABASE. *Anyways please buy the latest version for only $499.99, please, do it. I'm a father with 3 children, and we are all homeless. I have a gun to my neck and I want to-*
 
 Hello there! This is an automted message. We are sorry for making you feel uncomfortable. We are not responsible for the any injuries, accidents, volcanoes, tsunamis, fatigue, or dangers that you may face. Remember, you bought this for a reason.
 
