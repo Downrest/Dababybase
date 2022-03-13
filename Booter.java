@@ -11,9 +11,9 @@ public class Booter {
   if(isDatabase) {
     Database.databaseEnabled();
   } else if {!isDatabase) {
-    System.out.println('omg it disable grrrrrr');
+    System.out.println("omg it disable grrrrrr");
   } else {
-    System.out.println('deez big nuts');
+    System.out.println("deez big nuts in your moms mouth");
   }
 }
 
